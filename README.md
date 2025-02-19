@@ -24,6 +24,6 @@ Hi! I'm Alexis, known as Kh4ru in the coding world. I’m passionate about devel
 Feel free to explore my repositories and contribute to any project you find interesting!
 
 ### Contact
-[![Website](https://skillicons.dev/icons?i=htmx)](https://kh4ru.netlify.app) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kh4ru_) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Kh4ru) [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:asenepart02@gmail.com)
+[![Website](https://skillicons.dev/icons?i=htmx)](https://senepart.netlify.app) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kh4ru_) [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Kh4ru) [![Mail](https://skillicons.dev/icons?i=gmail)](mailto:asenepart02@gmail.com)
 
 Thanks for visiting my profile! 🚀
